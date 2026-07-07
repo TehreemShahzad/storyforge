@@ -104,7 +104,7 @@ Project documentation is available in the **docs** folder.
 
 **Tehreem Shahzad**
 
-BS Computer Science
+BS Software Engineering
 
 Final Year Project (2026)
 
